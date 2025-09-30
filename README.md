@@ -1,5 +1,10 @@
 # et1s
-ET1, uncomplicate data.
+ET1, uncomplicate data. 
+
+- No storage of workflow, nothing saves
+- Ideal for research and demos
+
+Learn more -- https://dev3lop.com/et1-overview/
 
 --------------------
 "All Rights Reserved"
