@@ -4,7 +4,9 @@ ET1, uncomplicate data.
 - No storage of workflow, nothing saves
 - Ideal for research and demos
 
+Live -- https://et1s.netlify.app/
 Learn more -- https://dev3lop.com/et1-overview/
+
 
 --------------------
 "All Rights Reserved"
