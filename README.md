@@ -9,4 +9,4 @@ Learn more -- https://dev3lop.com/et1-overview/
 --------------------
 "All Rights Reserved"
 --------------------
-People and organizations are legally prohibited from modifying or distributing forked code without DEV3LOPCOM, LLC permission, even though the platform allows you to create a copy.
+People and organizations are legally prohibited from modifying or distributing forked code without DEV3LOPCOM, LLC permission, even though the GitHub allows you to create a copy.
